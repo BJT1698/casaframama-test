@@ -1,10 +1,10 @@
 header:
   - name: Info
     title: Info
-    url: /about/
+    url: /casaframama-test/about/
   - name: Contatti
     title: Contatti
-    url: /contact/
+    url: /casaframama-test/contact/
 
 footer:
   - name: Airbnb
