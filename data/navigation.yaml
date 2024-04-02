@@ -1,0 +1,15 @@
+header:
+  - name: Info
+    title: Info
+    url: /about/
+  - name: Contatti
+    title: Contatti
+    url: /contact/
+
+footer:
+  - name: Airbnb
+    title: Airbnb
+    url: https://abnb.me/QRbfrlhRsIb
+  - name: Booking
+    title: Booking
+    url: https://www.booking.com/Pulse-Nmp9n4
